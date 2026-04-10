@@ -1,0 +1,69 @@
+[
+  {
+    "id": "main",
+    "components": [
+      "section"
+    ]
+  },
+  {
+    "id": "section",
+    "components": [
+      "button",
+      "cards",
+      "carousel",
+      "columns",
+      "contentfragment",
+      "css-variable",
+      "dm-asset",
+      "dm-template",
+      "fragment",
+      "hero",
+      "iframe",
+      "image",
+      "search",
+      "teaser",
+      "text",
+      "theme-configurator",
+      "theme-preview",
+      "title",
+      "video",
+      "trackrecord",
+      "accordion",
+      "tabs",
+      "css-variable",
+      "font-properties",
+      "promotionalbanner",
+      "benefitssection",
+      "blogs",
+      "font-properties",
+      "techspecsfeatures",
+      "product-index",
+      "hitechoverview",
+      "product-compare-cards"
+    ]
+  },
+  {
+    "id": "cards",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "columns",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "button",
+      "dm-asset",
+      "dm-template",
+      "image",
+      "text",
+      "title",
+      "video"
+    ]
+  }
+]
